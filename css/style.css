@@ -1,0 +1,14 @@
+.nav ul{
+    list-style-type: none;
+}
+.nav ul li{
+    display: inline-block;
+}
+.nav ul li a{
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 2px;
+}
+.nav ul a:hover{
+    background-color: aqua;
+}
